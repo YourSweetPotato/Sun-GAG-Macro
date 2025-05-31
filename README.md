@@ -6,7 +6,7 @@ Go on OAuth2 and scroll down till you get the link. Copy, paste it on your brosw
 
 	Then search your ahkv2 file path and paste it in the BOT python file
 
-	And finally open a terminal (Windows + R), type cmd, now the path of your BOT file and then type : 
+	And finally open a terminal (Windows + R), type cmd, now type "cd pathofyourbotfile" and then type : 
 python BOT.py 		to start the bot
 Now simply type !rejoin on your discord server and that's it ig
 
